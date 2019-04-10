@@ -1,0 +1,15 @@
+{
+  "name": "static-server",
+  "version": "0.0.1",
+  "description": "a nodejs static server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crisliu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "log4js": "^4.1.0"
+  }
+}
