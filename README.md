@@ -1,7 +1,4 @@
 # NodeJSExampleDemo
-NodeJS Example Demo
-
-Node js example demo
 
 此为NodeJS服务器访问静态资源示例，使用方法：
 
